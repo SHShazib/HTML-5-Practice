@@ -28,7 +28,7 @@ ul a {
     color: black;
     background-color: lightsalmon;
     text-transform: uppercase;
-    transition: 1s;
+    transition: .5s;
 }
 ul a:hover{
     background-color: lime;
